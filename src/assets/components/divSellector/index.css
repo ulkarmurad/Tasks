@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	background-color: black;
+}
+
+
+.uiselect {
+	border: 1px solid black;
+	width: 200px;
+	height: 20px;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	border-radius: 25px;
+	background-color: rgb(41, 40, 40);
+	color: white;
+	justify-content: space-between;
+	
+}
+.uiselect :hover{
+	background-color: rgb(56, 55, 55);
+}
+
+.dropdown{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 60px;
+	gap: 5px;
+}
+
+.uioption{
+	width: 210px;
+	
+	border-radius: 25px;
+	background-color: rgb(41, 40, 40);
+	color: white;
+	padding: 4px;
+	
+
+}
+
+.uioption :hover{
+	background-color: rgb(56, 55, 55);
+	border-radius: 45px;
+	
+
+}
+
+.uioption_names{
+	padding: 10px;
+}
+
