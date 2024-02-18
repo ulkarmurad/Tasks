@@ -1,0 +1,44 @@
+.error{
+    background-color: red;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    justify-content: center;
+    
+   
+   
+}
+
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+   
+}
+
+input{
+    border-radius: 8px;
+    padding: 7px;
+    width: 300px;
+    margin-top: 3px;
+}
+
+button{
+    border-radius: 8px;
+    padding: 7px;
+    width: 320px;
+    height: 40px;
+    background-color: rgb(146, 127, 127);
+}

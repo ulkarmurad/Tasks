@@ -3,13 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 // import './App.css'
 import Dropdown from './assets/components/divSellector/sellector'
+import Form from './assets/components/Form/Form'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Dropdown/>
+      {/* <Dropdown/> */}
+      <Form/>
     </>
   )
 }

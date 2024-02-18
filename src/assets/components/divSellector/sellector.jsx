@@ -1,5 +1,11 @@
 import { useState } from "react";
-import "./index.css";
+// import "./index.css";  
+
+
+// css acmaq lazimdir 
+
+
+
 import { RiArrowDropDownLine } from "react-icons/ri";
 
 [{ value: "blue" }];
