@@ -1,0 +1,21 @@
+{
+  "en": {
+    "translation": {
+      "English": "Welcome to my page",
+      "text": "My name is Ulkar."
+    }
+  },
+  "tr": {
+    "translation": {
+      "welcome": "Benim sayfama hoş geldiniz",
+      "text":"Ben Uka."
+    }
+  },
+
+  "az": {
+    "translation": {
+      "welcome": "Mənim səhifəmə xoş gəlmisiniz",
+      "text":"Mən Uka."
+    }
+  }
+}
